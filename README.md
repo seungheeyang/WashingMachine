@@ -2,7 +2,7 @@
 
 ### 프로젝트 개요
 ---------------
-14/09/2022 - washingMachine 2.1.1 project is updated. Detail here.
+06/09/2022 - washingMachine 2.1.1 project is updated. Detail here.
 
 1. 승인 카드 입력 -> 세탁기 Mode 선택
 
