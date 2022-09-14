@@ -2,6 +2,7 @@
 
 ### 프로젝트 개요
 ---------------
+14/09/2022 - washingMachine 2.1.1 project is updated. Detail here.
 
 1. 승인 카드 입력 -> 세탁기 Mode 선택
 
@@ -17,3 +18,19 @@
   
 4. 추가기능
     - 문 열림 감지 -> 일시정지
+    
+### Setup
+---------
+1. Order parts from the bill of materials
+    - ATmega128A
+    - LED: PA2 ~ PA6
+    - Button : PF0 ~ PF5
+    - I2C LCD : PD0, PD1
+    - DC Motor(L298N) : PA0, PA1, PE3
+    - Servo Motor : PE4
+    - Buzzer : PB5
+    - RFID: PB0 ~ PB3
+
+2. Follow the hardware setup
+3. Follow the software setup
+4. Run through the examples
