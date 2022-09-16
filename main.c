@@ -1,8 +1,8 @@
 /*
 * washingMachine.c
 *
-* Created: 2020-10-08 오후 5:59:40
-* Author : kccistc
+* Created: 2021-10-08 오후 5:59:40
+* Author : Seunghee ang
 */
 #define F_CPU 16000000UL
 #include <avr/io.h>
