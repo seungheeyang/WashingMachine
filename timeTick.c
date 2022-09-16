@@ -1,8 +1,8 @@
 ﻿/*
 * timeTick.c
 *
-* Created: 2020-09-25 오전 10:34:06
-*  Author: kccistc
+* Created: 2021-09-26 오전 14:32:31
+*  Author: Seunghee Yang
 */
 
 #include "timeTick.h"
