@@ -1,8 +1,8 @@
 ﻿/*
  * timeTick.h
  *
- * Created: 2020-09-25 오전 10:34:18
- *  Author: kccistc
+ * Created: 2021-09-25 오전 14:38:31
+ *  Author: Seunghee Yang
  */ 
 
 
